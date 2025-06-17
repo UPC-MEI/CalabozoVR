@@ -254,11 +254,20 @@ Solution:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 👥 Development Team
+
+This project was developed collaboratively by:
+- **Oliver Chan** - [@ochand](https://github.com/ochand)
+- **Carlos Rodríguez** - [@ro-carlos](https://github.com/ro-carlos)
+
+Developed for the **Interactive Graphics Systems** course.
+
 ## 🙏 Acknowledgments
 
 - **Google Cardboard Team** for the excellent XR plugin
 - **Unity Technologies** for the development platform
 - **TextMeshPro** for enhanced text rendering
+- **FIB UPC (BarcelonaTech) Interactive Graphics Systems Course** for the academic framework
 - **Community Contributors** for testing and feedback
 
 ## 📞 Support
@@ -266,7 +275,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For technical support or questions:
 - **Issues**: Create an issue on GitHub
 - **Documentation**: Check the [Documentation](Documentation/) folder
-- **Email**: support@yourcompany.com
+- **Email**: oliver.eduardo.chan@estudiantat.upc.edu
 
 ## 🗺️ Roadmap
 
