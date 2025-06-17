@@ -1,0 +1,42 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Unity generados automáticamente
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos personales o temporales
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Archivos de Visual Studio Code
+.vscode/
+
+# Datos de paquetes
+Packages/packages-lock.json
+
+# Configuración local
+*.local
+
+# Crash logs
+sysinfo.txt
+
+# Auto-save scene
+*.autosave
+
+# Rider IDE
+.idea/
+*.sln.iml
