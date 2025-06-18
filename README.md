@@ -49,9 +49,24 @@ Escape the dungeon by finding 3 hidden objects and solving the final puzzle.
 
 ## 🚀 Installation & Setup
 
+### ⚠️ Important Note
+
+**The functional project can only be downloaded from the following link due to versioning issues on GitHub:**
+
+🔗 **[Download CalabozoVR - Functional Version](https://drive.google.com/drive/folders/1tyBjox7m_KySdomthb_bs7sa9ow1YK4l?usp=sharing)**
+
+*Please use the Google Drive link above to access the complete, working version of the project.*
+
+---
+
 ### For Development
 
-1. **Clone the Repository**
+1. **Download the Project**
+   - Access the [Google Drive folder](https://drive.google.com/drive/folders/1tyBjox7m_KySdomthb_bs7sa9ow1YK4l?usp=sharing)
+   - Download the complete CalabozoVR project
+   - Extract to your desired location
+   
+   *Alternative (GitHub - may have version issues):*
    ```bash
    git clone https://github.com/UPC-MEI/CalabozoVR.git
    cd CalabozoVR
